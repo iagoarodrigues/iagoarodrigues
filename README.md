@@ -1,6 +1,6 @@
 <h1>Olá ! Eu sou o Iago, seja bem-vindo(a) ao meu perfil!</h1>
 
-<p align="left">Iago, 24 anos, carioca, solteiro, desenvolvedor em formação.</p>
+<p align="left">24 anos, carioca, solteiro, desenvolvedor em formação.</p>
 
 <p align="left">Técnico de TI - Colégio Santo Inácio - Botafogo-RJ.</p>
 

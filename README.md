@@ -1,5 +1,9 @@
 <h1>Olá ! Eu sou o Iago, seja bem-vindo(a) ao meu perfil!</h1>
 
+<p align="left">Iago, 24 anos, carioca, solteiro, desenvolvedor em formação.</p>
+
+<p align="left">Técnico de TI - Colégio Santo Inácio - Botafogo-RJ.</p>
+
  <div>
   <a href="https://github.com/iagoarodrigues">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iagoarodrigues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -23,8 +27,9 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102769741/175791161-e6dda049-f4a4-4406-8c1f-f612a582ab28.png">
 </div>
    
-  
   ##
+ 
+  ### Redes Sociais
   
   <div> 
   <a href="https://www.instagram.com/iagxs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,6 +40,7 @@
    </a>
    </a>
   </div>
+  ##
  
    ![Snake animation](https://github.com/iagoarodrigues/iagoarodrigues/blob/output/github-contribution-grid-snake.svg)
  </div>

@@ -1,6 +1,6 @@
 <h1>Olá ! Eu sou o Iago, seja bem-vindo(a) ao meu perfil!</h1>
 
-<p align="left">25 anos, carioca, programador em formação.</p>
+<p align="left">25 anos, carioca, programador em desenvolvimento.</p>
 
  <div>
   <a href="https://github.com/iagoarodrigues">

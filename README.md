@@ -1,8 +1,6 @@
 <h1>Olá ! Eu sou o Iago, seja bem-vindo(a) ao meu perfil!</h1>
 
-<p align="left">24 anos, carioca, programador em formação.</p>
-
-<p align="left">Técnico de TI - Colégio Santo Inácio - Botafogo-RJ.</p>
+<p align="left">25 anos, carioca, programador em formação.</p>
 
  <div>
   <a href="https://github.com/iagoarodrigues">
